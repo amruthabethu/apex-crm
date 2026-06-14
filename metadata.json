@@ -1,0 +1,6 @@
+{
+  "name": "Client Lead Management System",
+  "description": "A professional full-stack CRM dashboard for managing website contact-form client leads, visual statistics, JWT auth, and status workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
